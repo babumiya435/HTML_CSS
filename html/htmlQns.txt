@@ -1,1 +1,26 @@
 Basic to Advance html Topics :
+
+Basic Level:
+What does HTML stand for?
+What is the purpose of HTML?
+HTML parsing and understanding browser/desktop/mobile level parsing
+Explain the difference between HTML and CSS.
+How do you create a hyperlink in HTML?
+What is the purpose of the <img> tag in HTML?
+How do you add comments in HTML?
+
+Intermediate Level:
+
+Describe the difference between <div> and <span> tags in HTML.
+What are semantic HTML elements, and why are they important?
+How do you embed a video in an HTML document?
+What is the purpose of the <head> section in an HTML document?
+Explain the difference between <ol> and <ul> tags in HTML.
+
+Advanced Level:
+
+How do you create a responsive design using HTML and CSS?
+Describe the purpose and usage of the <canvas> element in HTML5.
+What are data attributes in HTML, and how can you use them?
+Explain the importance of accessibility in web development and how HTML supports it.
+What are Web Components, and how do they enhance HTML's capabilities?
