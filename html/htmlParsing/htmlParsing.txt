@@ -1,0 +1,37 @@
+********************************************************************************
+** In line js **
+
+HTML document :
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Title
+        </title>
+        <script>
+            alert("Hey I am coming from inline js code");
+        </script>
+    </head>
+    <body>
+        <h1>
+            HTML Parsing example 1
+        </h1>
+    </body>
+</html>
+
+DOM parse tree :
+
+-document
+    -documenttype: html
+    -element: html
+        -element: head
+            -element: title
+                -text: Title
+            -element: script
+                -text: alert("Hey I am coming from inline js code")
+        -element: body
+            -element: h1
+                -text: HTML Parsing example 1
+                
+********************************************************************************
