@@ -33,5 +33,22 @@ DOM parse tree :
         -element: body
             -element: h1
                 -text: HTML Parsing example 1
-                
+
+********************************************************************************
+** External js **
+
+<script type="text/javascript" src="./index.html"></script>
+
+-document
+    -documenttype:html
+    -element:html
+        -element:head
+            -element:title
+                -text:Title
+            -element:script
+                -attribute:src="./index.html"
+        -element:body
+            -element:h1
+                -text:HTML Parsing example 1
+
 ********************************************************************************
