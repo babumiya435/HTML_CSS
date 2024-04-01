@@ -23,7 +23,7 @@ HTML document :
 DOM parse tree :
 
 -document
-    -documenttype: html
+    -documentType: html
     -element: html
         -element: head
             -element: title
