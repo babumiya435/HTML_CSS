@@ -1,1 +1,36 @@
-1_Basic_Structure
+** 1 Basic Structure of HTML **
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Basic Structure of HTML
+        </title>
+        <script>
+            alert("Basic Structure of HTML Script");
+        </script>
+    </head>
+    <body>
+        <div>
+            <h1>
+                Basic Structure of HTML
+            </h1>
+        </div>
+    </body>
+</html>
+
+**********************************************************
+DOM tree
+**********************************************************
+element: DocumentType : html
+element: html
+    element: head
+        element: title
+            text: Basic Structure of HTML
+        element: script
+            text: alert("Basic Structure of HTML Script");
+    element: body
+        element: div
+            element: h1
+                text: Basic Structure of HTML
+
