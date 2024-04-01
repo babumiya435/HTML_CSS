@@ -20,7 +20,7 @@
 </html>
 
 **********************************************************
-DOM tree
+Corresponding HTML DOM tree:
 **********************************************************
 -document
     -documentType: html
@@ -35,3 +35,7 @@ DOM tree
                 -element: h1
                     -text: Basic Structure of HTML
 
+** What is the significance of <!DOCTYPE html> **
+
+    - it represents the HTML5 verision 
+    (browsers can take it as HTML5 version document and can undersatand newer elements without throwing errors).
