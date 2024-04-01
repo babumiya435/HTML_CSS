@@ -22,15 +22,16 @@
 **********************************************************
 DOM tree
 **********************************************************
-element: DocumentType : html
-element: html
-    element: head
-        element: title
-            text: Basic Structure of HTML
-        element: script
-            text: alert("Basic Structure of HTML Script");
-    element: body
-        element: div
-            element: h1
-                text: Basic Structure of HTML
+-document
+    -documentType: html
+    -element: html
+        -element: head
+            -element: title
+                -text: Basic Structure of HTML
+            -element: script
+                -text: alert("Basic Structure of HTML Script");
+        -element: body
+            -element: div
+                -element: h1
+                    -text: Basic Structure of HTML
 
