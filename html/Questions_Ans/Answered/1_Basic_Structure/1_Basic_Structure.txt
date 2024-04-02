@@ -39,8 +39,8 @@ Corresponding HTML DOM tree:
 
     - it represents the HTML5 verision 
     (browsers can take it as HTML5 version document and can undersatand newer elements without throwing errors).
-    - HTML Version Declaration
-    - Standards Mode Activation - consistent rendering across different browsers.
+    - HTML Version Declaration - Declaration of HTML Document Version
+    - Standards Mode Activation - consistent rendering across different browsers (Diffrent Browsers may parse the HTML differently).
     - Quirks Mode Prevention - which occurs when the browser attempts to render the document in a way that is compatible with older, 
         non-standardized versions of HTML
     - Improved Parsing Efficiency - It ensures that the browser follows the rules and syntax of the HTML5 specification, 
