@@ -1,0 +1,33 @@
+** 2 HTML Elements and Tags **
+
+HTML document is constructed usign html elements & tags.
+
+In HTML, elements and tags are related but not exactly the same thing:
+
+HTML tags: HTML tags are the markup characters 
+  (e.g., <p>, </p>) used to define the structure of HTML elements.
+
+HTML elements: HTML elements consist of tags and the content between them, 
+  representing the structure and semantics of the content in an HTML document.
+
+Semantics in the context of HTML:
+
+-Meaningful Element Names:
+    - <header>, <nav>, <main>, <footer> to represent the structural parts of a web page.
+
+-Semantic Tags:
+        - Utilizing HTML5 semantic elements like <article>, <section>, <aside>, <figure>, <figcaption>, <header>, <footer>, etc., to convey the meaning and structure of the content.
+        - Semantic tags provide context and meaning to the content they enclose, making it easier to understand for both humans and machines.
+
+-Accessibility:       
+        - Semantic HTML improves accessibility by providing additional context to assistive technologies like screen readers.
+        - Screen readers rely on semantic HTML to interpret the structure and meaning of the content, enabling users with disabilities to navigate and understand the web page more effectively.
+
+-SEO (Search Engine Optimization):
+        - Using semantic HTML elements and attributes can improve a web page's search engine rankings by providing clear signals about the content and its importance.
+    
+-Structured Data:
+        - Semantic HTML can be used to add structured data markup (e.g., Schema.org) to provide additional context and meaning to specific types of content (e.g., events, recipes, products).
+        - Structured data helps search engines understand and display rich snippets of information in search results, enhancing the visibility and usability of the content.
+        
+
